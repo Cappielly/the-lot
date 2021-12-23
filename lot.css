@@ -158,7 +158,7 @@ p {
 
 .odd4 {
   padding: 20px;
-  background-image: url(/img/bust.jpg);
+  background-image: url(img/bust.jpg);
   /*keep img aspect ratio*/
   background-repeat: no-repeat;
   background-size: cover;
