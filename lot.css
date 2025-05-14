@@ -50,6 +50,10 @@ p {
   grid-gap: 2px;
   margin-top: 30px;
 }
+#asterisk{
+  text-align: center;
+  color: fff;
+}
 
 .pn1 {
   text-align: center;
